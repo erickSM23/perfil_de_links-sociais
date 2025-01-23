@@ -98,5 +98,6 @@ main > section > div.media:hover {
     background-color: var(--Green);
     color: var(--GreyC);
 
+    cursor: pointer;
     transition: background-color 1s;
 }
