@@ -57,7 +57,7 @@ main > section > img {
     border-radius: 50%;
 }
 
-main > section > p#p1 {
+main > section > h1#h1 {
     padding: 20px 0 5px 0px;
 
     font-weight: 500;
@@ -100,8 +100,4 @@ main > section > div.media:hover {
 
     cursor: pointer;
     transition: background-color 1s;
-}
-
-h1 {
-    display: none;
 }
